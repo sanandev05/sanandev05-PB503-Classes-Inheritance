@@ -1,0 +1,14 @@
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\bin\Debug\net6.0\PB503-Classes.exe
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\bin\Debug\net6.0\PB503-Classes.deps.json
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\bin\Debug\net6.0\PB503-Classes.runtimeconfig.json
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\bin\Debug\net6.0\PB503-Classes.dll
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\bin\Debug\net6.0\PB503-Classes.pdb
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\obj\Debug\net6.0\PB503-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\obj\Debug\net6.0\PB503-Classes.AssemblyInfoInputs.cache
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\obj\Debug\net6.0\PB503-Classes.AssemblyInfo.cs
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\obj\Debug\net6.0\PB503-Classes.csproj.CoreCompileInputs.cache
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\obj\Debug\net6.0\PB503-Classes.dll
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\obj\Debug\net6.0\refint\PB503-Classes.dll
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\obj\Debug\net6.0\PB503-Classes.pdb
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\obj\Debug\net6.0\PB503-Classes.genruntimeconfig.cache
+C:\Users\Icomp\source\repos\PB503-Classes\PB503-Classes\obj\Debug\net6.0\ref\PB503-Classes.dll
